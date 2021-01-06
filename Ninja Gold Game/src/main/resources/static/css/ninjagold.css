@@ -1,0 +1,33 @@
+main{
+
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px black solid ;
+}
+header{
+    margin-left: 200px;
+    display: flex;
+}
+.index{
+    margin: 0px 10px;
+    height: 20px;
+    width: 100px;
+    border: 1px solid black;
+}
+aside{
+
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.results{
+    overflow: auto;
+    width: 800px;
+    height: 200px;
+    border: 1px solid black ;
+}
